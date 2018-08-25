@@ -6,5 +6,5 @@ date: 2018-08-25
 author: Jo
 category: 일상
 tags: 오레오 초콜릿 집앞카페
-finished: false
+finished: true
 ---
