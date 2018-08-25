@@ -5,7 +5,7 @@ subtitle: "Jo"
 date: 2018-08-26
 author: Jo
 category: 일상 #1 포스팅
-tags: blog 축하해man but 포스팅어려움 
+tags: blog 축하해 man but 포스팅어려움 
 finished: true
 ---
 
