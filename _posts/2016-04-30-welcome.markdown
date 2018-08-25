@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Welcome to Nice Blog"
-subtitle: "A simple Jekyll blog theme."
-date: 2016-03-30
-author: Gabriel
-category: Jekyll
-tags: jekyll github blog
+title: "일상#1 사소한 군것질"
+subtitle: "오레오 초콜릿"
+date: 2018-08-25
+author: Jo
+category: 일상
+tags: 오레오 초콜릿 집앞카페
 finished: true
 ---
 
@@ -49,25 +49,3 @@ If you add `finshed: true` in your post header, then an `EOF` container will sho
 
 Or it will show `TBC`:   
 <div class="tbc"></div>
-
-## How to use
-
-Star it, fork it, and download it.
-
-Change the settings in `_config.yml` file and then you can use this theme.
-
-Then change whatever you want. But first, you should know what you are doing.
-
-If you messed it up, do not worry, just come back and clone it again.
-
-Have fun.
-
-## Author
-
-A normal person just wanna see this world.
-
-[Gabriel](https://gabriel-chen.github.io)
-
-## License
-
-Use MIT License.
