@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Welcome to Jo's Blog"
+subtitle: "Jo"
+date: 2018-08-26
+author: Jo
+category: Jekyll
+tags: Jo blog 축하 
+finished: true
+---
+
+## 일상 #1
+
+test
